@@ -1,0 +1,501 @@
+audience_id,age_group,location,follower_status
+A0001,25-34,United Kingdom,Non-follower
+A0002,25-34,India,Follower
+A0003,25-34,India,Follower
+A0004,18-24,India,Follower
+A0005,25-34,United States,Follower
+A0006,18-24,India,Follower
+A0007,18-24,India,Follower
+A0008,18-24,India,Non-follower
+A0009,25-34,India,Follower
+A0010,45+,India,Follower
+A0011,25-34,India,Follower
+A0012,18-24,India,Follower
+A0013,18-24,India,Non-follower
+A0014,18-24,India,Non-follower
+A0015,25-34,India,Follower
+A0016,25-34,India,Follower
+A0017,18-24,Canada,Follower
+A0018,18-24,Other,Non-follower
+A0019,18-24,United Kingdom,Follower
+A0020,35-44,United Kingdom,Follower
+A0021,25-34,India,Follower
+A0022,18-24,India,Follower
+A0023,18-24,India,Non-follower
+A0024,35-44,India,Follower
+A0025,18-24,India,Follower
+A0026,18-24,India,Non-follower
+A0027,25-34,India,Non-follower
+A0028,18-24,India,Follower
+A0029,25-34,India,Follower
+A0030,18-24,India,Non-follower
+A0031,25-34,United Kingdom,Follower
+A0032,25-34,India,Follower
+A0033,25-34,India,Follower
+A0034,18-24,Other,Non-follower
+A0035,25-34,United Kingdom,Follower
+A0036,25-34,India,Non-follower
+A0037,18-24,Canada,Follower
+A0038,18-24,Canada,Follower
+A0039,18-24,United States,Follower
+A0040,18-24,India,Follower
+A0041,25-34,India,Follower
+A0042,18-24,United Kingdom,Follower
+A0043,45+,India,Follower
+A0044,18-24,India,Follower
+A0045,18-24,Canada,Follower
+A0046,25-34,United States,Non-follower
+A0047,35-44,United Kingdom,Follower
+A0048,18-24,Other,Follower
+A0049,25-34,United Kingdom,Non-follower
+A0050,35-44,United Kingdom,Follower
+A0051,18-24,India,Non-follower
+A0052,35-44,Other,Non-follower
+A0053,25-34,United States,Follower
+A0054,18-24,India,Non-follower
+A0055,18-24,India,Follower
+A0056,35-44,India,Non-follower
+A0057,25-34,United States,Follower
+A0058,18-24,Other,Follower
+A0059,45+,Canada,Follower
+A0060,35-44,India,Follower
+A0061,25-34,Other,Non-follower
+A0062,18-24,India,Follower
+A0063,18-24,United Kingdom,Follower
+A0064,25-34,Other,Follower
+A0065,18-24,Other,Follower
+A0066,45+,India,Follower
+A0067,18-24,India,Follower
+A0068,25-34,Other,Non-follower
+A0069,25-34,India,Follower
+A0070,35-44,India,Non-follower
+A0071,18-24,Other,Follower
+A0072,25-34,India,Follower
+A0073,25-34,United Kingdom,Follower
+A0074,18-24,India,Non-follower
+A0075,25-34,India,Non-follower
+A0076,35-44,United Kingdom,Non-follower
+A0077,18-24,India,Follower
+A0078,18-24,United Kingdom,Follower
+A0079,25-34,India,Non-follower
+A0080,25-34,India,Follower
+A0081,18-24,Other,Follower
+A0082,18-24,India,Follower
+A0083,25-34,India,Non-follower
+A0084,35-44,India,Follower
+A0085,25-34,India,Follower
+A0086,35-44,India,Follower
+A0087,25-34,Other,Follower
+A0088,18-24,India,Non-follower
+A0089,25-34,India,Follower
+A0090,18-24,India,Follower
+A0091,18-24,United Kingdom,Non-follower
+A0092,25-34,India,Non-follower
+A0093,35-44,India,Follower
+A0094,35-44,United Kingdom,Non-follower
+A0095,18-24,India,Follower
+A0096,25-34,India,Non-follower
+A0097,18-24,India,Non-follower
+A0098,45+,United States,Follower
+A0099,18-24,India,Follower
+A0100,25-34,United States,Non-follower
+A0101,18-24,India,Non-follower
+A0102,25-34,Other,Follower
+A0103,25-34,India,Follower
+A0104,18-24,Other,Follower
+A0105,35-44,India,Non-follower
+A0106,18-24,India,Follower
+A0107,25-34,India,Non-follower
+A0108,25-34,India,Follower
+A0109,18-24,India,Non-follower
+A0110,18-24,India,Follower
+A0111,18-24,India,Non-follower
+A0112,18-24,Other,Non-follower
+A0113,18-24,India,Follower
+A0114,18-24,India,Non-follower
+A0115,25-34,India,Follower
+A0116,18-24,India,Non-follower
+A0117,25-34,India,Follower
+A0118,18-24,India,Follower
+A0119,18-24,United Kingdom,Follower
+A0120,25-34,United States,Follower
+A0121,18-24,India,Follower
+A0122,25-34,United States,Follower
+A0123,25-34,India,Follower
+A0124,18-24,India,Non-follower
+A0125,35-44,United Kingdom,Follower
+A0126,35-44,India,Non-follower
+A0127,25-34,India,Follower
+A0128,18-24,India,Non-follower
+A0129,18-24,United Kingdom,Follower
+A0130,25-34,India,Non-follower
+A0131,25-34,India,Follower
+A0132,18-24,India,Follower
+A0133,45+,India,Follower
+A0134,25-34,India,Follower
+A0135,35-44,India,Follower
+A0136,18-24,Canada,Non-follower
+A0137,18-24,United States,Follower
+A0138,18-24,India,Follower
+A0139,18-24,India,Non-follower
+A0140,18-24,United States,Follower
+A0141,35-44,India,Follower
+A0142,25-34,India,Follower
+A0143,18-24,India,Follower
+A0144,25-34,India,Follower
+A0145,18-24,United States,Non-follower
+A0146,45+,Other,Non-follower
+A0147,25-34,India,Follower
+A0148,45+,India,Non-follower
+A0149,25-34,Canada,Follower
+A0150,45+,India,Follower
+A0151,25-34,India,Follower
+A0152,25-34,Canada,Non-follower
+A0153,25-34,India,Follower
+A0154,18-24,India,Non-follower
+A0155,35-44,India,Follower
+A0156,25-34,India,Non-follower
+A0157,18-24,India,Non-follower
+A0158,18-24,United States,Non-follower
+A0159,18-24,India,Non-follower
+A0160,18-24,India,Follower
+A0161,18-24,India,Follower
+A0162,25-34,Other,Follower
+A0163,35-44,India,Non-follower
+A0164,35-44,India,Non-follower
+A0165,25-34,India,Non-follower
+A0166,18-24,India,Non-follower
+A0167,25-34,India,Follower
+A0168,18-24,India,Follower
+A0169,18-24,India,Follower
+A0170,45+,India,Non-follower
+A0171,25-34,India,Follower
+A0172,18-24,United States,Follower
+A0173,18-24,United Kingdom,Follower
+A0174,18-24,United Kingdom,Non-follower
+A0175,18-24,India,Non-follower
+A0176,18-24,India,Follower
+A0177,25-34,India,Non-follower
+A0178,18-24,India,Non-follower
+A0179,25-34,India,Follower
+A0180,18-24,India,Follower
+A0181,45+,India,Follower
+A0182,25-34,India,Non-follower
+A0183,18-24,India,Follower
+A0184,35-44,India,Non-follower
+A0185,25-34,United Kingdom,Follower
+A0186,45+,India,Follower
+A0187,25-34,India,Follower
+A0188,18-24,India,Non-follower
+A0189,18-24,India,Follower
+A0190,18-24,India,Follower
+A0191,18-24,United States,Non-follower
+A0192,18-24,United Kingdom,Non-follower
+A0193,18-24,India,Follower
+A0194,25-34,United Kingdom,Follower
+A0195,18-24,India,Follower
+A0196,25-34,India,Follower
+A0197,18-24,India,Follower
+A0198,25-34,India,Follower
+A0199,18-24,Other,Follower
+A0200,18-24,India,Non-follower
+A0201,18-24,India,Non-follower
+A0202,18-24,Other,Follower
+A0203,25-34,United Kingdom,Follower
+A0204,45+,India,Non-follower
+A0205,25-34,United States,Follower
+A0206,25-34,India,Follower
+A0207,25-34,India,Follower
+A0208,25-34,United Kingdom,Non-follower
+A0209,25-34,India,Follower
+A0210,18-24,India,Non-follower
+A0211,45+,India,Follower
+A0212,25-34,United Kingdom,Follower
+A0213,18-24,India,Follower
+A0214,25-34,Other,Follower
+A0215,45+,India,Follower
+A0216,25-34,India,Follower
+A0217,18-24,United States,Follower
+A0218,25-34,India,Follower
+A0219,25-34,India,Follower
+A0220,35-44,Other,Follower
+A0221,35-44,India,Follower
+A0222,18-24,India,Follower
+A0223,18-24,India,Follower
+A0224,25-34,India,Follower
+A0225,18-24,India,Non-follower
+A0226,25-34,Other,Follower
+A0227,35-44,India,Non-follower
+A0228,35-44,United States,Follower
+A0229,18-24,India,Follower
+A0230,18-24,India,Follower
+A0231,25-34,Other,Non-follower
+A0232,25-34,India,Follower
+A0233,25-34,United Kingdom,Non-follower
+A0234,25-34,India,Follower
+A0235,18-24,India,Follower
+A0236,25-34,India,Follower
+A0237,45+,India,Follower
+A0238,25-34,India,Follower
+A0239,18-24,Other,Follower
+A0240,18-24,India,Non-follower
+A0241,35-44,India,Follower
+A0242,35-44,India,Follower
+A0243,25-34,Other,Follower
+A0244,18-24,Canada,Follower
+A0245,25-34,India,Follower
+A0246,45+,India,Follower
+A0247,18-24,United States,Non-follower
+A0248,25-34,India,Non-follower
+A0249,45+,United States,Non-follower
+A0250,18-24,India,Follower
+A0251,18-24,United States,Follower
+A0252,18-24,United States,Follower
+A0253,18-24,Canada,Follower
+A0254,25-34,India,Non-follower
+A0255,18-24,Canada,Non-follower
+A0256,25-34,United Kingdom,Follower
+A0257,18-24,India,Follower
+A0258,18-24,India,Follower
+A0259,25-34,India,Follower
+A0260,25-34,India,Follower
+A0261,35-44,Canada,Follower
+A0262,18-24,India,Non-follower
+A0263,45+,India,Follower
+A0264,25-34,India,Follower
+A0265,25-34,India,Follower
+A0266,25-34,India,Non-follower
+A0267,18-24,India,Follower
+A0268,18-24,India,Follower
+A0269,45+,India,Follower
+A0270,45+,Other,Follower
+A0271,18-24,United Kingdom,Follower
+A0272,25-34,India,Follower
+A0273,18-24,India,Non-follower
+A0274,45+,United States,Non-follower
+A0275,18-24,India,Follower
+A0276,35-44,India,Follower
+A0277,18-24,United Kingdom,Non-follower
+A0278,18-24,India,Follower
+A0279,35-44,India,Follower
+A0280,18-24,United Kingdom,Non-follower
+A0281,35-44,India,Non-follower
+A0282,25-34,United States,Follower
+A0283,18-24,India,Follower
+A0284,25-34,India,Follower
+A0285,25-34,India,Follower
+A0286,18-24,India,Follower
+A0287,35-44,India,Non-follower
+A0288,18-24,India,Non-follower
+A0289,18-24,India,Follower
+A0290,18-24,United States,Follower
+A0291,18-24,India,Non-follower
+A0292,25-34,Canada,Follower
+A0293,18-24,Other,Non-follower
+A0294,18-24,India,Follower
+A0295,35-44,India,Non-follower
+A0296,25-34,Other,Non-follower
+A0297,18-24,India,Non-follower
+A0298,18-24,United States,Follower
+A0299,25-34,India,Follower
+A0300,25-34,Other,Follower
+A0301,35-44,United States,Follower
+A0302,25-34,India,Follower
+A0303,18-24,India,Follower
+A0304,25-34,Other,Follower
+A0305,18-24,India,Follower
+A0306,25-34,India,Follower
+A0307,18-24,Other,Follower
+A0308,45+,United States,Non-follower
+A0309,45+,India,Follower
+A0310,18-24,India,Follower
+A0311,18-24,India,Follower
+A0312,18-24,India,Follower
+A0313,18-24,United Kingdom,Follower
+A0314,18-24,India,Follower
+A0315,25-34,Other,Follower
+A0316,18-24,India,Follower
+A0317,35-44,United States,Follower
+A0318,18-24,India,Follower
+A0319,18-24,India,Follower
+A0320,25-34,United States,Follower
+A0321,18-24,United Kingdom,Follower
+A0322,35-44,United States,Follower
+A0323,18-24,India,Follower
+A0324,25-34,United States,Follower
+A0325,18-24,United States,Non-follower
+A0326,18-24,United States,Non-follower
+A0327,45+,United Kingdom,Non-follower
+A0328,18-24,India,Non-follower
+A0329,18-24,India,Non-follower
+A0330,18-24,Other,Non-follower
+A0331,25-34,United States,Follower
+A0332,18-24,United States,Follower
+A0333,18-24,Other,Non-follower
+A0334,18-24,India,Follower
+A0335,18-24,Other,Follower
+A0336,18-24,India,Non-follower
+A0337,18-24,India,Non-follower
+A0338,18-24,India,Follower
+A0339,25-34,India,Follower
+A0340,35-44,India,Follower
+A0341,25-34,United States,Follower
+A0342,18-24,India,Non-follower
+A0343,25-34,United States,Non-follower
+A0344,18-24,India,Non-follower
+A0345,25-34,India,Follower
+A0346,18-24,India,Follower
+A0347,18-24,United Kingdom,Follower
+A0348,25-34,India,Follower
+A0349,18-24,United Kingdom,Follower
+A0350,45+,Other,Follower
+A0351,25-34,United Kingdom,Non-follower
+A0352,25-34,Canada,Follower
+A0353,18-24,India,Follower
+A0354,18-24,United States,Non-follower
+A0355,35-44,India,Follower
+A0356,18-24,United Kingdom,Non-follower
+A0357,18-24,India,Follower
+A0358,18-24,India,Follower
+A0359,18-24,India,Follower
+A0360,18-24,India,Follower
+A0361,18-24,United Kingdom,Follower
+A0362,18-24,India,Follower
+A0363,25-34,India,Non-follower
+A0364,18-24,India,Follower
+A0365,18-24,India,Follower
+A0366,35-44,India,Follower
+A0367,18-24,India,Follower
+A0368,35-44,United States,Follower
+A0369,18-24,Canada,Follower
+A0370,25-34,India,Non-follower
+A0371,25-34,India,Non-follower
+A0372,18-24,Other,Follower
+A0373,25-34,India,Follower
+A0374,25-34,India,Follower
+A0375,18-24,India,Follower
+A0376,18-24,India,Follower
+A0377,35-44,India,Non-follower
+A0378,18-24,India,Follower
+A0379,35-44,India,Follower
+A0380,18-24,Other,Non-follower
+A0381,18-24,India,Follower
+A0382,18-24,Other,Follower
+A0383,25-34,Other,Non-follower
+A0384,35-44,India,Non-follower
+A0385,25-34,United Kingdom,Follower
+A0386,35-44,India,Non-follower
+A0387,25-34,Canada,Non-follower
+A0388,25-34,United States,Non-follower
+A0389,35-44,India,Non-follower
+A0390,25-34,India,Follower
+A0391,35-44,United Kingdom,Follower
+A0392,25-34,India,Follower
+A0393,35-44,Canada,Follower
+A0394,25-34,Other,Follower
+A0395,18-24,Canada,Follower
+A0396,18-24,United Kingdom,Follower
+A0397,18-24,India,Non-follower
+A0398,18-24,India,Follower
+A0399,25-34,Canada,Follower
+A0400,18-24,India,Follower
+A0401,18-24,United Kingdom,Follower
+A0402,25-34,India,Non-follower
+A0403,18-24,India,Follower
+A0404,25-34,India,Follower
+A0405,25-34,India,Follower
+A0406,25-34,India,Follower
+A0407,35-44,India,Follower
+A0408,18-24,India,Follower
+A0409,18-24,United States,Follower
+A0410,18-24,India,Follower
+A0411,25-34,India,Non-follower
+A0412,25-34,United States,Follower
+A0413,18-24,India,Follower
+A0414,25-34,India,Follower
+A0415,45+,India,Follower
+A0416,18-24,United States,Follower
+A0417,45+,United States,Follower
+A0418,18-24,United States,Non-follower
+A0419,18-24,India,Follower
+A0420,18-24,United States,Follower
+A0421,18-24,India,Follower
+A0422,25-34,United States,Non-follower
+A0423,25-34,Canada,Follower
+A0424,18-24,United Kingdom,Follower
+A0425,18-24,India,Follower
+A0426,18-24,Canada,Follower
+A0427,18-24,India,Follower
+A0428,18-24,India,Follower
+A0429,18-24,India,Non-follower
+A0430,25-34,Other,Follower
+A0431,25-34,United States,Follower
+A0432,18-24,India,Follower
+A0433,18-24,India,Follower
+A0434,18-24,India,Non-follower
+A0435,18-24,India,Non-follower
+A0436,25-34,India,Follower
+A0437,25-34,India,Non-follower
+A0438,18-24,Other,Follower
+A0439,18-24,United Kingdom,Follower
+A0440,18-24,India,Follower
+A0441,18-24,India,Follower
+A0442,35-44,Other,Follower
+A0443,25-34,India,Non-follower
+A0444,18-24,India,Follower
+A0445,18-24,United States,Follower
+A0446,25-34,Canada,Non-follower
+A0447,25-34,India,Follower
+A0448,25-34,India,Non-follower
+A0449,18-24,India,Non-follower
+A0450,45+,Other,Non-follower
+A0451,18-24,India,Non-follower
+A0452,35-44,Canada,Non-follower
+A0453,18-24,Canada,Follower
+A0454,35-44,India,Follower
+A0455,18-24,Canada,Follower
+A0456,25-34,Other,Non-follower
+A0457,25-34,India,Follower
+A0458,18-24,India,Follower
+A0459,18-24,United States,Follower
+A0460,25-34,India,Non-follower
+A0461,18-24,India,Follower
+A0462,25-34,India,Non-follower
+A0463,18-24,India,Non-follower
+A0464,18-24,India,Follower
+A0465,18-24,India,Follower
+A0466,35-44,United Kingdom,Follower
+A0467,25-34,India,Non-follower
+A0468,35-44,Other,Follower
+A0469,35-44,Canada,Non-follower
+A0470,18-24,United Kingdom,Follower
+A0471,35-44,India,Follower
+A0472,18-24,India,Non-follower
+A0473,18-24,India,Follower
+A0474,25-34,India,Non-follower
+A0475,45+,India,Follower
+A0476,18-24,Canada,Follower
+A0477,25-34,India,Non-follower
+A0478,25-34,India,Non-follower
+A0479,18-24,India,Follower
+A0480,18-24,United Kingdom,Follower
+A0481,45+,United States,Follower
+A0482,25-34,India,Follower
+A0483,35-44,India,Follower
+A0484,18-24,India,Non-follower
+A0485,18-24,India,Follower
+A0486,25-34,India,Non-follower
+A0487,18-24,India,Non-follower
+A0488,35-44,India,Follower
+A0489,25-34,United States,Follower
+A0490,25-34,India,Follower
+A0491,25-34,India,Follower
+A0492,18-24,United States,Follower
+A0493,25-34,United Kingdom,Non-follower
+A0494,18-24,Canada,Follower
+A0495,18-24,India,Follower
+A0496,35-44,India,Follower
+A0497,18-24,India,Follower
+A0498,18-24,India,Follower
+A0499,25-34,Other,Follower
+A0500,35-44,India,Non-follower
